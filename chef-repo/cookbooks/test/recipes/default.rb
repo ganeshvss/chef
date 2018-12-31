@@ -4,6 +4,6 @@
 #
 # Copyright:: 2018, The Authors, All Rights Reserved.
 
-file '/home/ubuntu/chef.txt' do
+file '/home/ubuntu/jjjj.txt' do
   action :create
 end
